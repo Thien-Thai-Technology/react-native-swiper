@@ -6,5 +6,4 @@ import Swiper from './src/'
  * 2. ES6 code
  *    import Swiper from 'react-native-swiper';
  */
-module.exports = Swiper;
-module.exports.default = Swiper;
+export default Swiper
